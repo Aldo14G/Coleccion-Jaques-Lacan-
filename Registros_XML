@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns:dc="http://purl.org/dc/elements/1.1/" 
+           xmlns:dcterms="http://purl.org/dc/terms/"
+           xmlns:lacan="http://repositorio-lacan.uanl.mx/metadata/lacan/"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  
+  <metadata>
+    <dc:title>Colección Digital de las Obras de Jacques Lacan</dc:title>
+    <dc:description>Colección especializada de textos fundamentales del psicoanálisis lacaniano catalogados según estándares Dublin Core</dc:description>
+    <dc:creator>Universidad Autónoma de Nuevo León</dc:creator>
+    <dc:date>2025</dc:date>
+    <dc:type>Collection</dc:type>
+  </metadata>
+
+  <!-- Registro 1: El estadio del espejo -->
+  <record id="lacan-001">
+    <dc:title>El estadio del espejo como formador de la función del yo [je] tal como se nos revela en la experiencia psicoanalítica</dc:title>
+    <dcterms:alternative>Le stade du miroir comme formateur de la fonction du Je telle qu'elle nous est révélée dans l'expérience psychanalytique</dcterms:alternative>
+    <dc:creator>Lacan, Jacques</dc:creator>
+    <dcterms:contributor xsi:type="dcterms:translator">Segovia, Tomás</dcterms:contributor>
+    <dcterms:created>1949-07-17</dcterms:created>
+    <dcterms:issued>1966</dcterms:issued>
+    <dcterms:translated>1971</dcterms:translated>
+    <dc:language>spa</dc:language>
+    <dcterms:languageOriginal>fra</dcterms:languageOriginal>
+    <dc:description>Texto fundacional donde Lacan expone su teoría sobre la formación del yo a través de la identificación con la imagen especular, estableciendo las bases del registro imaginario.</dc:description>
+    <dc:publisher>Siglo XXI Editores</dc:publisher>
+    <dcterms:publisherPlace>México</dcterms:publisherPlace>
+    <dc:format>Texto digital</dc:format>
+    <dcterms:extent>11 páginas</dcterms:extent>
+    <dc:type>Texto</dc:type>
+    <dcterms:genre>Conferencia/Artículo</dcterms:genre>
+    <dcterms:isPartOf>Escritos</dcterms:isPartOf>
+    <dcterms:references>Wallon, H.: "Les origines du caractère chez l'enfant"</dcterms:references>
+    <dcterms:temporal>1949</dcterms:temporal>
+    <dc:subject>Estadio del espejo</dc:subject>
+    <dc:subject>Imaginario</dc:subject>
+    <dc:subject>Yo</dc:subject>
+    <dc:subject>Identificación</dc:subject>
+    <dc:subject>Imago</dc:subject>
+    <lacan:period>Pre-seminarios (1936-1953)</lacan:period>
+    <lacan:concepts>Imaginario; Yo ideal; Alienación; Agresividad; Cuerpo fragmentado</lacan:concepts>
+    <lacan:mathem>Esquema óptico (implícito)</lacan:mathem>
+    <lacan:version>Versión revisada de la conferencia de 1936</lacan:version>
+  </record>
+
+
+  <!-- Registro 2: Función y campo de la palabra -->
+  <record id="lacan-002">
+    <dc:title>Función y campo de la palabra y del lenguaje en psicoanálisis</dc:title>
+    <dcterms:alternative>Fonction et champ de la parole et du langage en psychanalyse</dcterms:alternative>
+    <dc:creator>Lacan, Jacques</dc:creator>
+    <dcterms:contributor xsi:type="dcterms:translator">Segovia, Tomás</dcterms:contributor>
+    <dcterms:created>1953-09-26/1953-09-27</dcterms:created>
+    <dcterms:issued>1966</dcterms:issued>
+    <dcterms:translated>1971</dcterms:translated>
+    <dc:language>spa</dc:language>
+    <dcterms:languageOriginal>fra</dcterms:languageOriginal>
+    <dc:description>Conocido como el "Discurso de Roma", este texto fundacional marca el inicio oficial de la enseñanza lacaniana, estableciendo la primacía del lenguaje en el psicoanálisis.</dc:description>
+    <dc:publisher>Siglo XXI Editores</dc:publisher>
+    <dcterms:publisherPlace>México</dcterms:publisherPlace>
+    <dc:format>Texto digital</dc:format>
+    <dcterms:extent>96 páginas</dcterms:extent>
+    <dc:type>Texto</dc:type>
+    <dcterms:genre>Conferencia/Artículo</dcterms:genre>
+    <dcterms:isPartOf>Escritos</dcterms:isPartOf>
+    <dcterms:references>Heidegger, M.: "Carta sobre el humanismo"; Lévi-Strauss, C.: "Antropología estructural"</dcterms:references>
+    <dcterms:temporal>1953</dcterms:temporal>
+    <dc:subject>Palabra</dc:subject>
+    <dc:subject>Lenguaje</dc:subject>
+    <dc:subject>Simbólico</dc:subject>
+    <dc:subject>Estructura</dc:subject>
+    <dc:subject>Habla plena</dc:subject>
+    <lacan:period>Primer período (1953-1963)</lacan:period>
+    <lacan:concepts>Palabra vacía/plena; Simbólico; Otro; Verdad; Reconocimiento</lacan:concepts>
+    <lacan:mathem>Primeras formalizaciones de la relación significante-significado</lacan:mathem>
+    <lacan:version>Original establecida por el autor</lacan:version>
+  </record>
+
+  <!-- Registro 3: Seminario I -->
+  <record id="lacan-003">
+    <dc:title>Los escritos técnicos de Freud</dc:title>
+    <dcterms:alternative>Le séminaire, livre I: Les écrits techniques de Freud</dcterms:alternative>
+    <dc:creator>Lacan, Jacques</dc:creator>
+    <dcterms:contributor xsi:type="dcterms:editor">Miller, Jacques-Alain</dcterms:contributor>
+    <dcterms:contributor xsi:type="dcterms:translator">Cevasco, Rithée</dcterms:contributor>
+    <dcterms:contributor xsi:type="dcterms:translator">Mira Pascual, Vicente</dcterms:contributor>
+    <dcterms:created>1953-11-18/1954-06-30</dcterms:created>
+    <dcterms:issued>1975</dcterms:issued>
+    <dcterms:translated>1981</dcterms:translated>
+    <dc:identifier>978-84-7509-088-6</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dcterms:languageOriginal>fra</dcterms:languageOriginal>
+    <dc:description>Primer seminario público de Lacan donde revisa los textos técnicos de Freud para establecer un retorno a la letra freudiana frente a las desviaciones de la psicología del yo.</dc:description>
+    <dc:publisher>Paidós</dc:publisher>
+    <dcterms:publisherPlace>Buenos Aires</dcterms:publisherPlace>
+    <dc:format>Texto digital</dc:format>
+    <dcterms:extent>398 páginas</dcterms:extent>
+    <dc:type>Texto</dc:type>
+    <dcterms:genre>Seminario</dcterms:genre>
+    <dcterms:isPartOf>El Seminario de Jacques Lacan</dcterms:isPartOf>
+    <dcterms:references>Freud, S.: "Consejos al médico"; "La dinámica de la transferencia"</dcterms:references>
+    <dcterms:temporal>1953-1954</dcterms:temporal>
+    <dc:subject>Técnica psicoanalítica</dc:subject>
+    <dc:subject>Resistencia</dc:subject>
+    <dc:subject>Transferencia</dc:subject>
+    <dc:subject>Narcisismo</dc:subject>
+    <lacan:period>Primer período (1953-1963)</lacan:period>
+    <lacan:concepts>Imaginario; Yo ideal-Ideal del yo; Narcisismo</lacan:concepts>
+    <lacan:mathem>Esquema L; Esquema óptico</lacan:mathem>
+    <lacan:version>Establecida por J-A Miller</lacan:version>
+  </record>
+
+  <!-- Registro 4: La instancia de la letra -->
+  <record id="lacan-004">
+    <dc:title>La instancia de la letra en el inconsciente o la razón desde Freud</dc:title>
+    <dcterms:alternative>L'instance de la lettre dans l'inconscient ou la raison depuis Freud</dcterms:alternative>
+    <dc:creator>Lacan, Jacques</dc:creator>
+    <dcterms:contributor xsi:type="dcterms:translator">Segovia, Tomás</dcterms:contributor>
+    <dcterms:created>1957-05-09</dcterms:created>
+    <dcterms:issued>1966</dcterms:issued>
+    <dcterms:translated>1971</dcterms:translated>
+    <dc:language>spa</dc:language>
+    <dcterms:languageOriginal>fra</dcterms:languageOriginal>
+    <dc:description>Texto fundamental donde Lacan establece su teoría del significante y la primacía del orden simbólico, aplicando la lingüística estructural al psicoanálisis.</dc:description>
+    <dc:publisher>Siglo XXI Editores</dc:publisher>
+    <dcterms:publisherPlace>México</dcterms:publisherPlace>
+    <dc:format>Texto digital</dc:format>
+    <dcterms:extent>40 páginas</dcterms:extent>
+    <dc:type>Texto</dc:type>
+    <dcterms:genre>Conferencia/Artículo</dcterms:genre>
+    <dcterms:isPartOf>Escritos</dcterms:isPartOf>
+    <dcterms:references>Saussure, F.: "Curso de lingüística general"; Jakobson, R.: "Dos aspectos del lenguaje"</dcterms:references>
+    <dcterms:temporal>1957</dcterms:temporal>
+    <dc:subject>Letra</dc:subject>
+    <dc:subject>Significante</dc:subject>
+    <dc:subject>Inconsciente</dc:subject>
+    <dc:subject>Metáfora</dc:subject>
+    <dc:subject>Metonimia</dc:subject>
+    <lacan:period>Primer período (1953-1963)</lacan:period>
+    <lacan:concepts>Significante/significado; Metáfora paterna; Letra; Algoritmo saussuriano</lacan:concepts>
+    <lacan:mathem>S/s; Fórmulas de la metáfora y la metonimia</lacan:mathem>
+    <lacan:version>Original establecida por el autor</lacan:version>
+  </record>
+
+  <!-- Registro 5: Seminario II -->
+  <record id="lacan-005">
+    <dc:title>El yo en la teoría de Freud y en la técnica psicoanalítica</dc:title>
+    <dcterms:alternative>Le séminaire, livre II: Le moi dans la théorie de Freud et dans la technique de la psychanalyse</dcterms:alternative>
+    <dc:creator>Lacan, Jacques</dc:creator>
+    <dcterms:contributor xsi:type="dcterms:editor">Miller, Jacques-Alain</dcterms:contributor>
+    <dcterms:contributor xsi:type="dcterms:translator">Cevasco, Rithée</dcterms:contributor>
+    <dcterms:created>1954-11-17/1955-06-15</dcterms:created>
+    <dcterms:issued>1978</dcterms:issued>
+    <dcterms:translated>1983</dcterms:translated>
+    <dc:identifier>978-84-7509-120-3</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dcterms:languageOriginal>fra</dcterms:languageOriginal>
+    <dc:description>Segundo seminario donde Lacan desarrolla su crítica a la psicología del yo americana y elabora la distinción entre yo ideal e ideal del yo, introduciendo conceptos cibernéticos.</dc:description>
+    <dc:publisher>Paidós</dc:publisher>
+    <dcterms:publisherPlace>Buenos Aires</dcterms:publisherPlace>
+    <dc:format>Texto digital</dc:format>
+    <dcterms:extent>456 páginas</dcterms:extent>
+    <dc:type>Texto</dc:type>
+    <dcterms:genre>Seminario</dcterms:genre>
+    <dcterms:isPartOf>El Seminario de Jacques Lacan</dcterms:isPartOf>
+    <dcterms:references>Freud, S.: "Introducción del narcisismo"; Wiener, N.: "Cibernética"</dcterms:references>
+    <dcterms:temporal>1954-1955</dcterms:temporal>
+    <dc:subject>Yo</dc:subject>
+    <dc:subject>Narcisismo</dc:subject>
+    <dc:subject>Ideal del yo</dc:subject>
+    <dc:subject>Cibernética</dc:subject>
+    <dc:subject>Simbólico</dc:subject>
+    <lacan:period>Primer período (1953-1963)</lacan:period>
+    <lacan:concepts>Yo ideal/Ideal del yo; Simbólico; Real; Automatismo de repetición</lacan:concepts>
+    <lacan:mathem>Esquema L desarrollado; Introducción del orden simbólico</lacan:mathem>
+    <lacan:version>Establecida por J-A Miller</lacan:version>
+  </record>
+
+  <!-- Registro 6: Subversión del sujeto -->
+  <record id="lacan-006">
+    <dc:title>Subversión del sujeto y dialéctica del deseo en el inconsciente freudiano</dc:title>
+    <dcterms:alternative>Subversion du sujet et dialectique du désir dans l'inconscient freudien</dcterms:alternative>
+    <dc:creator>Lacan, Jacques</dc:creator>
+    <dcterms:contributor xsi:type="dcterms:translator">Segovia, Tomás</dcterms:contributor>
+    <dcterms:created>1960-09-19</dcterms:created>
+    <dcterms:issued>1966</dcterms:issued>
+    <dcterms:translated>1971</dcterms:translated>
+    <dc:language>spa</dc:language>
+    <dcterms:languageOriginal>fra</dcterms:languageOriginal>
+    <dc:description>Texto crucial donde Lacan presenta sus grafos del deseo y desarrolla su teoría del sujeto dividido, estableciendo la estructura fundamental del inconsciente.</dc:description>
+    <dc:publisher>Siglo XXI Editores</dc:publisher>
+    <dcterms:publisherPlace>México</dcterms:publisherPlace>
+    <dc:format>Texto digital</dc:format>
+    <dcterms:extent>56 páginas</dcterms:extent>
+    <dc:type>Texto</dc:type>
+    <dcterms:genre>Conferencia/Artículo</dcterms:genre>
+    <dcterms:isPartOf>Escritos</dcterms:isPartOf>
+    <dcterms:references>Freud, S.: "La interpretación de los sueños"; Hegel, G.W.F.: "Fenomenología del espíritu"</dcterms:references>
+    <dcterms:temporal>1960</dcterms:temporal>
+    <dc:subject>Sujeto</dc:subject>
+    <dc:subject>Deseo</dc:subject>
+    <dc:subject>Inconsciente</dc:subject>
+    <dc:subject>Significante</dc:subject>
+    <dc:subject>Fantasma</dc:subject>
+    <lacan:period>Primer período (1953-1963)</lacan:period>
+    <lacan:concepts>Sujeto barrado; Grafo del deseo; Fantasma fundamental; Objeto petit a</lacan:concepts>
+    <lacan:mathem>$ ◊ a; Grafo completo del deseo; S(Ⱥ)</lacan:mathem>
+    <lacan:version>Original establecida por el autor</lacan:version>
+  </record>
+
+  <!-- Registro 7: Seminario XI -->
+  <record id="lacan-007">
+    <dc:title>Los cuatro conceptos fundamentales del psicoanálisis</dc:title>
+    <dcterms:alternative>Le séminaire, livre XI: Les quatre concepts fondamentaux de la psychanalyse</dcterms:alternative>
+    <dc:creator>Lacan, Jacques</dc:creator>
+    <dcterms:contributor xsi:type="dcterms:editor">Miller, Jacques-Alain</dcterms:contributor>
+    <dcterms:contributor xsi:type="dcterms:translator">Delmont-Mauri, Francisco</dcterms:contributor>
+    <dcterms:contributor xsi:type="dcterms:translator">Sucre, Juan Luis</dcterms:contributor>
+    <dcterms:created>1964-01-15/1964-06-10</dcterms:created>
+    <dcterms:issued>1973</dcterms:issued>
+    <dcterms:translated>1987</dcterms:translated>
+    <dc:identifier>978-84-7509-056-5</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dcterms:languageOriginal>fra</dcterms:languageOriginal>
+    <dc:description>Seminario fundamental donde Lacan establece los cuatro conceptos básicos del psicoanálisis: inconsciente, repetición, transferencia y pulsión, inaugurando su segundo período de enseñanza.</dc:description>
+    <dc:publisher>Paidós</dc:publisher>
+    <dcterms:publisherPlace>Buenos Aires</dcterms:publisherPlace>
+    <dc:format>Texto digital</dc:format>
+    <dcterms:extent>279 páginas</dcterms:extent>
+    <dc:type>Texto</dc:type>
+    <dcterms:genre>Seminario</dcterms:genre>
+    <dcterms:isPartOf>El Seminario de Jacques Lacan</dcterms:isPartOf>
+    <dcterms:references>Freud, S.: "Más allá del principio del placer"; Merleau-Ponty, M.: "Lo visible y lo invisible"</dcterms:references>
+    <dcterms:temporal>1964</dcterms:temporal>
+    <dc:subject>Inconsciente</dc:subject>
+    <dc:subject>Repetición</dc:subject>
+    <dc:subject>Transferencia</dc:subject>
+    <dc:subject>Pulsión</dc:subject>
+    <dc:subject>Mirada</dc:subject>
+    <lacan:period>Segundo período (1964-1970)</lacan:period>
+    <lacan:concepts>Vel de la alienación; Separación; Objeto a; Pulsión escópica; Causa del deseo</lacan:concepts>
+    <lacan:mathem>Vel de la alienación; $ ◊ a desarrollado</lacan:mathem>
+    <lacan:version>Establecida por J-A Miller</lacan:version>
+  </record>
+
+  <!-- Registro 8: La significación del falo -->
+  <record id="lacan-008">
+    <dc:title>La significación del falo</dc:title>
+    <dcterms:alternative>La signification du phallus</dcterms:alternative>
+    <dc:creator>Lacan, Jacques</dc:creator>
+    <dcterms:contributor xsi:type="dcterms:translator">Segovia, Tomás</dcterms:contributor>
+    <dcterms:created>1958-05-09</dcterms:created>
+    <dcterms:issued>1966</dcterms:issued>
+    <dcterms:translated>1971</dcterms:translated>
+    <dc:language>spa</dc:language>
+    <dcterms:languageOriginal>fra</dcterms:languageOriginal>
+    <dc:description>Conferencia fundamental donde Lacan elabora su teoría del falo como significante y su papel en la constitución subjetiva, distinguiendo entre tener y ser el falo.</dc:description>
+    <dc:publisher>Siglo XXI Editores</dc:publisher>
+    <dcterms:publisherPlace>México</dcterms:publisherPlace>
+    <dc:format>Texto digital</dc:format>
+    <dcterms:extent>22 páginas</dcterms:extent>
+    <dc:type>Texto</dc:type>
+    <dcterms:genre>Conferencia/Artículo</dcterms:genre>
+    <dcterms:isPartOf>Escritos</dcterms:isPartOf>
+    <dcterms:references>Freud, S.: "La organización genital infantil"; Jones, E.: "La fase fálica"</dcterms:references>
+    <dcterms:temporal>1958</dcterms:temporal>
+    <dc:subject>Falo</dc:subject>
+    <dc:subject>Significante</dc:subject>
+    <dc:subject>Castración</dc:subject>
+    <dc:subject>Diferencia sexual</dc:subject>
+    <dc:subject>Deseo</dc:subject>
+    <lacan:period>Primer período (1953-1963)</lacan:period>
+    <lacan:concepts>Falo simbólico; Privación/Frustración/Castración; Tener/Ser el falo</lacan:concepts>
+    <lacan:mathem>Φ (Phi mayúscula); φ (phi minúscula)</lacan:mathem>
+    <lacan:version>Original establecida por el autor</lacan:version>
+  </record>
+
+  <!-- Registro 9: Seminario XVII -->
+  <record id="lacan-009">
+    <dc:title>El reverso del psicoanálisis</dc:title>
+    <dcterms:alternative>Le séminaire, livre XVII: L'envers de la psychanalyse</dcterms:alternative>
+    <dc:creator>Lacan, Jacques</dc:creator>
+    <dcterms:contributor xsi:type="dcterms:editor">Miller, Jacques-Alain</dcterms:contributor>
+    <dcterms:contributor xsi:type="dcterms:translator">Fernández, Enric</dcterms:contributor>
+    <dcterms:created>1969-11-26/1970-06-17</dcterms:created>
+    <dcterms:issued>1991</dcterms:issued>
+    <dcterms:translated>1992</dcterms:translated>
+    <dc:identifier>978-84-7509-738-0</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dcterms:languageOriginal>fra</dcterms:languageOriginal>
+    <dc:description>Seminario donde Lacan desarrolla su teoría de los cuatro discursos (maestro, universitario, histérica, analista) y analiza el lazo social, marcando el inicio de su tercer período.</dc:description>
+    <dc:publisher>Paidós</dc:publisher>
+    <dcterms:publisherPlace>Buenos Aires</dcterms:publisherPlace>
+    <dc:format>Texto digital</dc:format>
+    <dcterms:extent>241 páginas</dcterms:extent>
+    <dc:type>Texto</dc:type>
+    <dcterms:genre>Seminario</dcterms:genre>
+    <dcterms:isPartOf>El Seminario de Jacques Lacan</dcterms:isPartOf>
+    <dcterms:references>Marx, K.: "El Capital"; Hegel, G.W.F.: "Dialéctica del amo y del esclavo"</dcterms:references>
+    <dcterms:temporal>1969-1970</dcterms:temporal>
+    <dc:subject>Discurso</dc:subject>
+    <dc:subject>Lazo social</dc:subject>
+    <dc:subject>Maestro</dc:subject>
+    <dc:subject>Universidad</dc:subject>
+    <dc:subject>Poder</dc:subject>
+    <lacan:period>Tercer período (1971-1980)</lacan:period>
+    <lacan:concepts>Cuatro discursos; Plus-de-gozar; S1, S2; Saber inconsciente</lacan:concepts>
+    <lacan:mathem>Matemas de los cuatro discursos</lacan:mathem>
+    <lacan:version>Establecida por J-A Miller</lacan:version>
+  </record>
+
+  <!-- Registro 10: Seminario XX -->
+  <record id="lacan-010">
+    <dc:title>Aún</dc:title>
+    <dcterms:alternative>Le séminaire, livre XX: Encore</dcterms:alternative>
+    <dc:creator>Lacan, Jacques</dc:creator>
+    <dcterms:contributor xsi:type="dcterms:editor">Miller, Jacques-Alain</dcterms:contributor>
+    <dcterms:contributor xsi:type="dcterms:translator">Fernández, Diana Silvia</dcterms:contributor>
+    <dcterms:contributor xsi:type="dcterms:translator">Delmont-Mauri, Francisco</dcterms:contributor>
+    <dcterms:created>1972-11-21/1973-06-19</dcterms:created>
+    <dcterms:issued>1975</dcterms:issued>
+    <dcterms:translated>1981</dcterms:translated>
+    <dc:identifier>978-84-7509-214-9</dc:identifier>
+    <dc:language>spa</dc:language>
+    <dcterms:languageOriginal>fra</dcterms:languageOriginal>
+    <dc:description>Seminario fundamental del último período donde Lacan desarrolla las fórmulas de la sexuación, introduce el concepto de goce femenino y elabora la teoría de los nudos borromeos.</dc:description>
+    <dc:publisher>Paidós</dc:publisher>
+    <dcterms:publisherPlace>Buenos Aires</dcterms:publisherPlace>
+    <dc:format>Texto digital</dc:format>
+    <dcterms:extent>205 páginas</dcterms:extent>
+    <dc:type>Texto</dc:type>
+    <dcterms:genre>Seminario</dcterms:genre>
+    <dcterms:isPartOf>El Seminario de Jacques Lacan</dcterms:isPartOf>
+    <dcterms:references>Aristóteles: "Lógica"; Frege, G.: "Escritos lógicos y filosóficos"</dcterms:references>
+    <dcterms:temporal>1972-1973</dcterms:temporal>
+    <dc:subject>Goce</dc:subject>
+    <dc:subject>Sexuación</dc:subject>
+    <dc:subject>Femenino</dc:subject>
+    <dc:subject>Amor</dc:subject>
+    <dc:subject>Nudo borromeo</dc:subject>
+    <lacan:period>Tercer período (1971-1980)</lacan:period>
+    <lacan:concepts>Goce fálico/Goce Otro; Fórmulas de la sexuación; No-toda; Nudo borromeo</lacan:concepts>
+    <lacan:mathem>Fórmulas de la sexuación; Nudo borromeo RSI</lacan:mathem>
+    <lacan:version>Establecida por J-A Miller</lacan:version>
+  </record>
+
+</collection>
